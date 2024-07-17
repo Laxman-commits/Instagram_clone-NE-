@@ -9,16 +9,12 @@ Welcome to the Instagram Clone project! This is a simple clone of Instagram buil
 - 🛣️ Multiple routes to display user data.
 - 💾 Data fetched from `data.json`.
 
+## Contributing 🤝
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
-/instagram-clone
-│
-├── /public # Static files (CSS, images, etc.)
-│ └── styles.css # CSS file
-│
-├── /views # EJS templates
-│ └── instagram.ejs # EJS template for Instagram profiles
-│
-├── data.json # User data file
-│
-└── app.js # Main server file
+## License 📄
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+Made with ❤️ by Laxman
 
