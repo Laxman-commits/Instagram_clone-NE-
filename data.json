@@ -1,0 +1,327 @@
+{
+    "companies": {
+      "google": {
+        "name": "Google",
+        "profile_picture": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png",
+        "post":"6",
+        "followers": 23000000,
+        "following": 10,
+        "description": "Multinational technology company known for its search engine, online advertising technologies, cloud computing, software, and hardware.",
+        "posts": [
+          {
+            "image": "https://images.unsplash.com/photo-1511296265581-c2450046447d?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 150000,
+            "comments": 5000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1612873346068-1d4b76372235?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 170000,
+            "comments": 5500
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1488155436641-58ef42fcc44e?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 200000,
+            "comments": 6000
+          },
+          {
+            "image": "https://www.gstatic.com/webp/gallery/4.jpg",
+            "likes": 180000,
+            "comments": 5500
+          },
+          {
+            "image": "https://www.gstatic.com/webp/gallery/5.jpg",
+            "likes": 190000,
+            "comments": 6000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1613362431431-5f36385ff82e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 210000,
+            "comments": 6500
+          }
+        ]
+      },
+      "microsoft": {
+        "name": "Microsoft",
+        "profile_picture": "https://freelogopng.com/images/all_img/1656695781microsoft-icon-png.png",
+        "post":"6",
+        "followers": 30000000,
+        "following": 15,
+        "description": "Global leader in software, services, devices, and solutions, including Windows, Office suite, and Azure cloud platform.",
+        "posts": [
+          {
+            "image": "https://images.unsplash.com/photo-1633114073804-1ea0fac57af0?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 180000,
+            "comments": 4500
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1633113214186-9f1e186498fe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 190000,
+            "comments": 4800
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1489176876421-3b720db0fb3d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 210000,
+            "comments": 5000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1680128369855-2415f3ea7f76?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 200000,
+            "comments": 4800
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1720048170996-40507a45c720?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+            "likes": 220000,
+            "comments": 5200
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1633114073219-8c81a6bdb356?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "likes": 230000,
+            "comments": 5500
+          }
+        ]
+      },
+      "amazon": {
+        "name": "Amazon",
+        "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJUzw0Xa-jxRSeRJR2HM9T9Ipi53IqAvuIyprnwLKnC9OrlI_X-qX0Zkzel84LPuY29M&usqp=CAU",
+        "post":"6",
+        "followers": 27000000,
+        "following": 20,
+        "description": "American multinational technology company specializing in e-commerce, cloud computing, digital streaming, and AI.",
+        "posts": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQf-QnWiOjFYwjA87eTKhPUylSqLp0RPxh7g&s",
+            "likes": 220000,
+            "comments": 7000
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmmn2CoYrjo8w673FxrrPC8Ykb-W2fQfzoA&s",
+            "likes": 230000,
+            "comments": 7500
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1560807707-d50b48a7b32a",
+            "likes": 250000,
+            "comments": 8000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1580254863064-68b8c105c41b",
+            "likes": 240000,
+            "comments": 7800
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1600689799392-4830d6f3893d",
+            "likes": 260000,
+            "comments": 8200
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1592161513190-46b47a5b7dce",
+            "likes": 270000,
+            "comments": 8500
+          }
+        ]
+      },
+      "linkedin": {
+        "name": "LinkedIn",
+        "profile_picture": "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.png.original.png",
+        "followers": 18000000,
+        "post":"6",
+        "following": 25,
+        "description": "Business and employment-oriented social networking service used for professional networking and job searching.",
+        "posts": [
+          {
+            "image": "https://images.unsplash.com/photo-1594716167597-e83e5ed2b0c2",
+            "likes": 140000,
+            "comments": 3000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1577177648862-7e2f91c64f1e",
+            "likes": 150000,
+            "comments": 3500
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1604116638422-3f2d78d8b6c3",
+            "likes": 160000,
+            "comments": 4000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1595494788398-3b695b818525",
+            "likes": 155000,
+            "comments": 3700
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1572174115640-5e1bc4c94b26",
+            "likes": 165000,
+            "comments": 4100
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1596129359648-8d1ad91e4937",
+            "likes": 170000,
+            "comments": 4300
+          }
+        ]
+      },
+      "facebook": {
+        "name": "Facebook",
+        "profile_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/800px-Facebook_f_logo_%282019%29.svg.png",
+        "post":"6",
+        "followers": 37000000,
+        "following": 5,
+        "description": "Social networking service and website operated by Meta Platforms, known for connecting people worldwide.",
+        "posts": [
+          {
+            "image": "https://images.unsplash.com/photo-1579546929516-d5dfb4b6c5c2",
+            "likes": 300000,
+            "comments": 10000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1522327644335-5a53e7947f61",
+            "likes": 320000,
+            "comments": 10500
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1516611659334-593ccf1b90e1",
+            "likes": 340000,
+            "comments": 11000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1552466224-3f44f7e2b07e",
+            "likes": 330000,
+            "comments": 10800
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1558547177-3b8b38724b03",
+            "likes": 350000,
+            "comments": 11500
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1574772271317-6a173b2c9b2b",
+            "likes": 360000,
+            "comments": 12000
+          }
+        ]
+      }
+    },
+    "players": {
+      "ronaldo": {
+        "name": "Ronaldo",
+        "profile_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cristiano_Ronaldo_2018.jpg/800px-Cristiano_Ronaldo_2018.jpg",
+        "post":"6",
+        "followers": 250000000,
+        "following": 300,
+        "description": "Renowned footballer known for his exceptional skills and numerous records in professional football.",
+        "posts": [
+          {
+            "image": "https://images.unsplash.com/photo-1517833962254-864f33a94f8f",
+            "likes": 3000000,
+            "comments": 80000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1590082078346-2e07ffcc78a4",
+            "likes": 3200000,
+            "comments": 85000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1586177464023-e58c4dc7fe8a",
+            "likes": 3400000,
+            "comments": 90000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1523915232851-8a1b3b1d4e68",
+            "likes": 3300000,
+            "comments": 88000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1551987843-efd66cd6a1ee",
+            "likes": 3500000,
+            "comments": 92000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1553042979-ae8a57b2e3c2",
+            "likes": 3600000,
+            "comments": 95000
+          }
+        ]
+      },
+      "messi": {
+        "name": "Messi",
+        "profile_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lionel_Messi_20180626.jpg/800px-Lionel_Messi_20180626.jpg",
+        "post":"6",
+        "followers": 220000000,
+        "following": 250,
+        "description": "Argentine footballer widely regarded as one of the greatest players of all time, known for his agility and goal-scoring abilities.",
+        "posts": [
+          {
+            "image": "https://images.unsplash.com/photo-1572411553490-617f11a97be1",
+            "likes": 2900000,
+            "comments": 75000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1588271836741-bb420fb40a0f",
+            "likes": 3100000,
+            "comments": 80000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1577023311546-cdc07a8454d9",
+            "likes": 3300000,
+            "comments": 85000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1559085994-3c53bdf8c6ad",
+            "likes": 3200000,
+            "comments": 83000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1556740738-b5a661e6584e",
+            "likes": 3400000,
+            "comments": 87000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1594021003585-31e7cf3af6e0",
+            "likes": 3600000,
+            "comments": 90000
+          }
+        ]
+      },
+      "viratkohli": {
+        "name": "Virat Kohli",
+        "profile_picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Virat_Kohli_2015.jpg/800px-Virat_Kohli_2015.jpg",
+        "post":"6",
+        "followers": 170000000,
+        "following": 200,
+        "description": "Indian cricketer and former captain of the Indian national team, known for his aggressive batting style and leadership.",
+        "posts": [
+          {
+            "image": "https://images.unsplash.com/photo-1597626815346-5f9e734b7f6f",
+            "likes": 2500000,
+            "comments": 60000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1572020790227-1f3f62b76242",
+            "likes": 2700000,
+            "comments": 65000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1597812722439-bf8d93e2efbe",
+            "likes": 2900000,
+            "comments": 70000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1590396829485-08b5d6fc5de3",
+            "likes": 2800000,
+            "comments": 68000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1584352396366-2ec4fc79f149",
+            "likes": 3000000,
+            "comments": 72000
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1594119038221-2f4e5d44972c",
+            "likes": 3100000,
+            "comments": 75000
+          }
+        ]
+      }
+    }
+  }
+  
